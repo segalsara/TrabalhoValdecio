@@ -1,0 +1,15 @@
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\bin\Debug\net6.0\TrabalhoCursoApp.exe
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\bin\Debug\net6.0\TrabalhoCursoApp.deps.json
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\bin\Debug\net6.0\TrabalhoCursoApp.runtimeconfig.json
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\bin\Debug\net6.0\TrabalhoCursoApp.dll
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\bin\Debug\net6.0\TrabalhoCursoApp.pdb
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.AssemblyInfo.cs
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.dll
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\refint\TrabalhoCursoApp.dll
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.pdb
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\TrabalhoCursoApp.genruntimeconfig.cache
+C:\Users\willi\source\repos\Programação-C\TrabalhoCursoApp\TrabalhoCursoApp\obj\Debug\net6.0\ref\TrabalhoCursoApp.dll

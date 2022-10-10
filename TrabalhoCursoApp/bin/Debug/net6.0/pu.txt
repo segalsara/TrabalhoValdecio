@@ -1,0 +1,12 @@
+1° produto: 
+Nome: 1 | 
+Codigo: 1 | 
+Venda: 1.00 | 
+Custo: 1.00 |
+ 
+3° produto: 
+Nome: 3 | 
+Codigo: 3 | 
+Venda: 3.00 | 
+Custo: 3.00 |
+ 
